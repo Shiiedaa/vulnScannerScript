@@ -1,8 +1,6 @@
 import socket
 
 
-
-
 #function to check if server allows anonymous login
 '''
 attempts to connect  to the FTP server on port 21 which is the default for FTP
