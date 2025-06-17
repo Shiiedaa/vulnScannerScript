@@ -1,0 +1,13 @@
+{
+    "host": "104.21.112.1",
+    "open_ports": [
+        21,
+        80,
+        443
+    ],
+    "vulnerabilities": {
+        "21": "Error occured",
+        "80": "HTTP service not accessible",
+        "443": "No vulnerability checks implemented"
+    }
+}

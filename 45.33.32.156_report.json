@@ -1,0 +1,11 @@
+{
+    "host": "45.33.32.156",
+    "open_ports": [
+        22,
+        80
+    ],
+    "vulnerabilities": {
+        "22": "No vulnerability checks implemented",
+        "80": "HTTP service not accessible"
+    }
+}
